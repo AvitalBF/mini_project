@@ -1,0 +1,8 @@
+mosmed_data/
+mosmed_full_data/
+*.zip
+*.nii
+*.nii.gz
+outputs/
+__pycache__/
+.claude/
