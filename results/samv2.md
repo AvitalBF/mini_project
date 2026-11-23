@@ -1,6 +1,6 @@
 <div dir="rtl">
 
-# משימת בונוס: התאמת נקודות ציון אנטומיות בין סריקות CT באמצעות SAMv2
+# התאמת נקודות ציון אנטומיות בין סריקות CT באמצעות SAMv2
 
 ![SAMv2 anatomical matching](samv2_anatomical_matching.png)
 
