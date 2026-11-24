@@ -9,3 +9,4 @@ weights/
 checkpoints/
 __pycache__/
 .claude/
+*.log
